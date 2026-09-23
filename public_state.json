@@ -1,0 +1,326 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-23T04:56:04+00:00",
+  "items": [
+    {
+      "id": "nowcoder-big-integer-maze",
+      "title": "走一个大整数迷宫",
+      "source": "牛客",
+      "url": "https://www.nowcoder.com/practice/5e28adbc58a443808dead63044a5a079",
+      "stage": "R1",
+      "next_review": "2026-09-25",
+      "review_type": "迁移/局部回忆",
+      "route": "短期复习"
+    },
+    {
+      "id": "dag-longest-path-transfer",
+      "title": "AtCoder DP G → 洛谷 P1807 最长路迁移",
+      "source": "AtCoder/洛谷",
+      "url": "https://www.luogu.com.cn/problem/P1807",
+      "stage": "R2",
+      "next_review": "2026-09-28",
+      "review_type": "局部 H0 迁移复测",
+      "route": "短期复习"
+    },
+    {
+      "id": "cf-1920d",
+      "title": "Codeforces 1920D Array Repetition",
+      "source": "Codeforces",
+      "url": "https://codeforces.com/problemset/problem/1920/D",
+      "stage": "R1",
+      "next_review": "2026-09-24",
+      "review_type": "迁移/局部回忆",
+      "route": "短期复习"
+    },
+    {
+      "id": "cf-2028c",
+      "title": "Codeforces 2028C Alice's Adventures in Cutting Cake",
+      "source": "Codeforces",
+      "url": "https://codeforces.com/problemset/problem/2028/C",
+      "stage": "R1",
+      "next_review": "2026-09-26",
+      "review_type": "10–15 分钟局部 H0 复测",
+      "route": "短期复习"
+    },
+    {
+      "id": "nc17059-first-last",
+      "title": "牛客 NC17059 队列 FIRST/LAST 操作",
+      "source": "牛客",
+      "url": null,
+      "stage": "R0",
+      "next_review": "2026-09-22",
+      "review_type": "原题 H0 模型复测",
+      "route": "短期复习"
+    },
+    {
+      "id": "qoj-20246-kmex",
+      "title": "QOJ 20246 K-MEX",
+      "source": "QOJ",
+      "url": "https://qoj.ac/contest/4113/problem/20246",
+      "stage": "R0",
+      "next_review": "2026-09-23",
+      "review_type": "原题 H0 模型复测",
+      "route": "短期复习"
+    },
+    {
+      "id": "nowcoder-segment-scan",
+      "title": "牛客练习赛67 A《牛牛爱字符串》",
+      "source": "牛客",
+      "url": "https://ac.nowcoder.com/acm/contest/6885/A",
+      "stage": "R0",
+      "next_review": "2026-09-24",
+      "review_type": "骨架 H0 复测",
+      "route": "短期复习"
+    },
+    {
+      "id": "cidoai-garden",
+      "title": "Cidoai 花园",
+      "source": "原记录待补",
+      "url": null,
+      "stage": "R0",
+      "next_review": "2026-09-24",
+      "review_type": "原题/局部 H0 复测",
+      "route": "短期复习"
+    },
+    {
+      "id": "spying-on-the-beaver",
+      "title": "Spying on the Beaver",
+      "source": "",
+      "url": null,
+      "stage": "Calibrate",
+      "next_review": null,
+      "review_type": "",
+      "route": ""
+    },
+    {
+      "id": "luogu-p1006",
+      "title": "洛谷 P1006",
+      "source": "",
+      "url": null,
+      "stage": "Calibrate",
+      "next_review": null,
+      "review_type": "",
+      "route": ""
+    },
+    {
+      "id": "team-formation",
+      "title": "Team Formation",
+      "source": "",
+      "url": null,
+      "stage": "Calibrate",
+      "next_review": null,
+      "review_type": "",
+      "route": ""
+    },
+    {
+      "id": "trie-lcp",
+      "title": "Trie/LCP 增量维护",
+      "source": "",
+      "url": null,
+      "stage": "Calibrate",
+      "next_review": null,
+      "review_type": "",
+      "route": ""
+    },
+    {
+      "id": "escape-root",
+      "title": "Escape Root",
+      "source": "",
+      "url": null,
+      "stage": "Calibrate",
+      "next_review": null,
+      "review_type": "",
+      "route": ""
+    },
+    {
+      "id": "cf-1650b",
+      "title": "CF1650B DIV+MOD",
+      "source": "",
+      "url": null,
+      "stage": "Calibrate",
+      "next_review": null,
+      "review_type": "",
+      "route": ""
+    },
+    {
+      "id": "zombie-trap",
+      "title": "百度之星僵尸陷阱",
+      "source": "",
+      "url": null,
+      "stage": "Calibrate",
+      "next_review": null,
+      "review_type": "",
+      "route": ""
+    },
+    {
+      "id": "silhouette-d",
+      "title": "Silhouette D",
+      "source": "",
+      "url": null,
+      "stage": "Calibrate",
+      "next_review": null,
+      "review_type": "",
+      "route": ""
+    },
+    {
+      "id": "balanced-01",
+      "title": "Nowcoder Multi-school R4G Balanced 01",
+      "source": "",
+      "url": null,
+      "stage": "Calibrate",
+      "next_review": null,
+      "review_type": "",
+      "route": ""
+    },
+    {
+      "id": "cf20c",
+      "title": "CF20C / Dijkstra",
+      "source": "",
+      "url": null,
+      "stage": "Calibrate",
+      "next_review": null,
+      "review_type": "",
+      "route": ""
+    },
+    {
+      "id": "hot-potatoes",
+      "title": "Hot Potatoes at the Fairy Warehouse",
+      "source": "",
+      "url": null,
+      "stage": "Calibrate",
+      "next_review": null,
+      "review_type": "",
+      "route": ""
+    },
+    {
+      "id": "sword-levels",
+      "title": "剑与关卡贪心",
+      "source": "",
+      "url": null,
+      "stage": "Calibrate",
+      "next_review": null,
+      "review_type": "",
+      "route": ""
+    },
+    {
+      "id": "2d-diff-map",
+      "title": "二维差分 + 一维映射",
+      "source": "",
+      "url": null,
+      "stage": "Calibrate",
+      "next_review": null,
+      "review_type": "",
+      "route": ""
+    },
+    {
+      "id": "3color-grid",
+      "title": "三色网格计数",
+      "source": "",
+      "url": null,
+      "stage": "Calibrate",
+      "next_review": null,
+      "review_type": "",
+      "route": ""
+    },
+    {
+      "id": "parity-shortest-path",
+      "title": "无权图步数奇偶最短路",
+      "source": "",
+      "url": null,
+      "stage": "Calibrate",
+      "next_review": null,
+      "review_type": "",
+      "route": ""
+    },
+    {
+      "id": "sos-dp",
+      "title": "SOS DP",
+      "source": "",
+      "url": null,
+      "stage": "Calibrate",
+      "next_review": null,
+      "review_type": "",
+      "route": ""
+    },
+    {
+      "id": "binary-runs",
+      "title": "二进制连续 1 段计数",
+      "source": "",
+      "url": null,
+      "stage": "Calibrate",
+      "next_review": null,
+      "review_type": "",
+      "route": ""
+    },
+    {
+      "id": "xor-grouping",
+      "title": "XOR 分组最大分数",
+      "source": "",
+      "url": null,
+      "stage": "Calibrate",
+      "next_review": null,
+      "review_type": "",
+      "route": ""
+    },
+    {
+      "id": "luogu-p12145",
+      "title": "luogu/P12145",
+      "source": "",
+      "url": null,
+      "stage": "Calibrate",
+      "next_review": null,
+      "review_type": "",
+      "route": ""
+    },
+    {
+      "id": "cf-105887h",
+      "title": "codeforces/105887H",
+      "source": "",
+      "url": null,
+      "stage": "Calibrate",
+      "next_review": null,
+      "review_type": "",
+      "route": ""
+    },
+    {
+      "id": "nowcoder-309429",
+      "title": "nowcoder/309429",
+      "source": "",
+      "url": null,
+      "stage": "Calibrate",
+      "next_review": null,
+      "review_type": "",
+      "route": ""
+    },
+    {
+      "id": "luogu-p8642",
+      "title": "luogu/P8642",
+      "source": "",
+      "url": null,
+      "stage": "Calibrate",
+      "next_review": null,
+      "review_type": "",
+      "route": ""
+    },
+    {
+      "id": "nowcoder-308189",
+      "title": "nowcoder/308189",
+      "source": "",
+      "url": null,
+      "stage": "Calibrate",
+      "next_review": null,
+      "review_type": "",
+      "route": ""
+    },
+    {
+      "id": "recall-stack",
+      "title": "Recall",
+      "source": "",
+      "url": null,
+      "stage": "Calibrate",
+      "next_review": null,
+      "review_type": "",
+      "route": ""
+    }
+  ]
+}
