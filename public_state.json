@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-28T12:17:25+00:00",
+  "generated_at": "2026-09-29T08:06:27+00:00",
   "items": [
     {
       "id": "nowcoder-big-integer-maze",
@@ -90,6 +90,16 @@
       "stage": "R0",
       "next_review": "2026-09-29",
       "review_type": "原题 H0 模型复测",
+      "route": "短期复习"
+    },
+    {
+      "id": "nowcoder-f44bc-factorial-divisibility",
+      "title": "牛客 practice f44bc1d564f747e291f639bce91a06f9",
+      "source": "牛客",
+      "url": "https://www.nowcoder.com/practice/f44bc1d564f747e291f639bce91a06f9",
+      "stage": "R0",
+      "next_review": "2026-10-02",
+      "review_type": "原题 H0 完整重写",
       "route": "短期复习"
     },
     {
