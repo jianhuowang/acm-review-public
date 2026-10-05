@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-05T10:24:45+00:00",
+  "generated_at": "2026-10-05T16:18:48+00:00",
   "items": [
     {
       "id": "nowcoder-big-integer-maze",
@@ -120,6 +120,16 @@
       "stage": "R0",
       "next_review": "2026-10-08",
       "review_type": "原题 H0 模型复测",
+      "route": "短期复习"
+    },
+    {
+      "id": "wannafly10-a-h-maze",
+      "title": "小H和迷宫",
+      "source": "Wannafly挑战赛10",
+      "url": null,
+      "stage": "R0",
+      "next_review": "2026-10-08",
+      "review_type": "原题 H0 短复测",
       "route": "短期复习"
     },
     {
