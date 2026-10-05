@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-05T16:18:48+00:00",
+  "generated_at": "2026-10-05T16:19:25+00:00",
   "items": [
     {
       "id": "nowcoder-big-integer-maze",
@@ -130,6 +130,16 @@
       "stage": "R0",
       "next_review": "2026-10-08",
       "review_type": "原题 H0 短复测",
+      "route": "短期复习"
+    },
+    {
+      "id": "nowcoder-contest-140733-h",
+      "title": "牛客 Contest 140733 H",
+      "source": "牛客",
+      "url": "https://ac.nowcoder.com/acm/contest/140733/H",
+      "stage": "R0",
+      "next_review": "2026-10-08",
+      "review_type": "原题 H0 完整重写",
       "route": "短期复习"
     },
     {
