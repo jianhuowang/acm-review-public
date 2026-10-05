@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-29T09:16:02+00:00",
+  "generated_at": "2026-10-05T10:24:45+00:00",
   "items": [
     {
       "id": "nowcoder-big-integer-maze",
@@ -110,6 +110,16 @@
       "stage": "R0",
       "next_review": "2026-10-02",
       "review_type": "原题 H0 完整 KMP 重写",
+      "route": "短期复习"
+    },
+    {
+      "id": "nowcoder-multi2024-2-c-red-walking-on-grid",
+      "title": "Red Walking on Grid",
+      "source": "2024牛客暑期多校训练营2 C",
+      "url": null,
+      "stage": "R0",
+      "next_review": "2026-10-08",
+      "review_type": "原题 H0 模型复测",
       "route": "短期复习"
     },
     {
