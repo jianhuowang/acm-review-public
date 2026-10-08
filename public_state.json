@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-05T16:19:25+00:00",
+  "generated_at": "2026-10-08T09:42:07+00:00",
   "items": [
     {
       "id": "nowcoder-big-integer-maze",
@@ -140,6 +140,16 @@
       "stage": "R0",
       "next_review": "2026-10-08",
       "review_type": "原题 H0 完整重写",
+      "route": "短期复习"
+    },
+    {
+      "id": "nowcoder-2ea8fa63879c4d9ba37c155987690e6c",
+      "title": "牛客 practice 2ea8fa（隔板法与折返间距计数）",
+      "source": "牛客",
+      "url": "https://www.nowcoder.com/practice/2ea8fa63879c4d9ba37c155987690e6c",
+      "stage": "R0",
+      "next_review": "2026-10-11",
+      "review_type": "原题 H0 建模复测",
       "route": "短期复习"
     },
     {
