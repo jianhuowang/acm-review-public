@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-08T09:42:07+00:00",
+  "generated_at": "2026-10-09T13:51:52+00:00",
   "items": [
     {
       "id": "nowcoder-big-integer-maze",
@@ -150,6 +150,16 @@
       "stage": "R0",
       "next_review": "2026-10-11",
       "review_type": "原题 H0 建模复测",
+      "route": "短期复习"
+    },
+    {
+      "id": "nowcoder-296300-cishu",
+      "title": "辞书",
+      "source": "牛客",
+      "url": "https://ac.nowcoder.com/acm/problem/296300",
+      "stage": "R0",
+      "next_review": "2026-10-12",
+      "review_type": "原题 H0 独立重建",
       "route": "短期复习"
     },
     {
