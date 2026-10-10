@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-10T05:50:25+00:00",
+  "generated_at": "2026-10-10T06:40:12+00:00",
   "items": [
     {
       "id": "nowcoder-big-integer-maze",
@@ -170,6 +170,16 @@
       "stage": "R0",
       "next_review": "2026-10-13",
       "review_type": "原题 H0 独立实现复测",
+      "route": "短期复习"
+    },
+    {
+      "id": "nowcoder-141374-f",
+      "title": "Permutation of RBS",
+      "source": "牛客小白月赛138",
+      "url": "https://ac.nowcoder.com/acm/contest/141374/F",
+      "stage": "R0",
+      "next_review": "2026-10-13",
+      "review_type": "原题H0完整复测",
       "route": "短期复习"
     },
     {
