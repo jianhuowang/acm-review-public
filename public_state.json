@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-10T06:40:12+00:00",
+  "generated_at": "2026-10-11T08:57:02+00:00",
   "items": [
     {
       "id": "nowcoder-big-integer-maze",
@@ -180,6 +180,16 @@
       "stage": "R0",
       "next_review": "2026-10-13",
       "review_type": "原题H0完整复测",
+      "route": "短期复习"
+    },
+    {
+      "id": "cf-gym-105901-l",
+      "title": "Subsequence",
+      "source": "2025 ICPC 武汉邀请赛 L",
+      "url": "https://codeforces.com/gym/105901/problem/L",
+      "stage": "R0",
+      "next_review": "2026-10-14",
+      "review_type": "原题 H0 短复测",
       "route": "短期复习"
     },
     {
