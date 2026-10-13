@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-11T08:57:02+00:00",
+  "generated_at": "2026-10-13T11:50:46+00:00",
   "items": [
     {
       "id": "nowcoder-big-integer-maze",
@@ -189,6 +189,16 @@
       "url": "https://codeforces.com/gym/105901/problem/L",
       "stage": "R0",
       "next_review": "2026-10-14",
+      "review_type": "原题 H0 短复测",
+      "route": "短期复习"
+    },
+    {
+      "id": "cf-2258-b1",
+      "title": "Carrot Chopdown (Easy Version)",
+      "source": "Codeforces 2258B1",
+      "url": "https://codeforces.com/problemset/problem/2258/B1",
+      "stage": "R0",
+      "next_review": "2026-10-16",
       "review_type": "原题 H0 短复测",
       "route": "短期复习"
     },
