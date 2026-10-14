@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-14T05:32:42+00:00",
+  "generated_at": "2026-10-14T15:41:40+00:00",
   "items": [
     {
       "id": "nowcoder-big-integer-maze",
@@ -220,6 +220,16 @@
       "stage": "R0",
       "next_review": "2026-10-17",
       "review_type": "原题 H0 独立推导与实现",
+      "route": "短期复习"
+    },
+    {
+      "id": "cf-gym-105901-f",
+      "title": "Knapsack",
+      "source": "2025 ICPC 武汉邀请赛 F",
+      "url": "https://codeforces.com/gym/105901/problem/F",
+      "stage": "R0",
+      "next_review": "2026-10-17",
+      "review_type": "原题 H0 完整重写与边界检查",
       "route": "短期复习"
     },
     {
