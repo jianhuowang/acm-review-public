@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-13T11:50:46+00:00",
+  "generated_at": "2026-10-14T03:27:52+00:00",
   "items": [
     {
       "id": "nowcoder-big-integer-maze",
@@ -200,6 +200,16 @@
       "stage": "R0",
       "next_review": "2026-10-16",
       "review_type": "原题 H0 短复测",
+      "route": "短期复习"
+    },
+    {
+      "id": "nowcoder-308717",
+      "title": "数论迷城",
+      "source": "牛客",
+      "url": "https://ac.nowcoder.com/acm/problem/308717",
+      "stage": "R0",
+      "next_review": "2026-10-17",
+      "review_type": "原题 H0 独立推导并实现",
       "route": "短期复习"
     },
     {
