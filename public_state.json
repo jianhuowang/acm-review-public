@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-16T08:43:36+00:00",
+  "generated_at": "2026-10-18T05:14:06+00:00",
   "items": [
     {
       "id": "nowcoder-big-integer-maze",
@@ -240,6 +240,16 @@
       "stage": "R0",
       "next_review": "2026-10-19",
       "review_type": "原题H0完整复测",
+      "route": "短期复习"
+    },
+    {
+      "id": "nowcoder-b6aff86eef4f4622aec75154fbf183c7",
+      "title": "加减",
+      "source": "牛客",
+      "url": "https://www.nowcoder.com/practice/b6aff86eef4f4622aec75154fbf183c7",
+      "stage": "R0",
+      "next_review": "2026-10-21",
+      "review_type": "原模型 H0 完整实现复测",
       "route": "短期复习"
     },
     {
