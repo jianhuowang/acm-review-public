@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-18T05:14:06+00:00",
+  "generated_at": "2026-10-19T12:29:56+00:00",
   "items": [
     {
       "id": "nowcoder-big-integer-maze",
@@ -250,6 +250,16 @@
       "stage": "R0",
       "next_review": "2026-10-21",
       "review_type": "原模型 H0 完整实现复测",
+      "route": "短期复习"
+    },
+    {
+      "id": "nowcoder-141877-e",
+      "title": "牛客 Contest 141877 E（路径最大点权最小化）",
+      "source": "牛客",
+      "url": "https://ac.nowcoder.com/acm/contest/141877/E",
+      "stage": "R0",
+      "next_review": "2026-10-21",
+      "review_type": "原题 H0 完整复测",
       "route": "短期复习"
     },
     {
