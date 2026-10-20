@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-19T12:29:56+00:00",
+  "generated_at": "2026-10-20T08:57:35+00:00",
   "items": [
     {
       "id": "nowcoder-big-integer-maze",
@@ -260,6 +260,16 @@
       "stage": "R0",
       "next_review": "2026-10-21",
       "review_type": "原题 H0 完整复测",
+      "route": "短期复习"
+    },
+    {
+      "id": "nowcoder-141877-d",
+      "title": "小月的回声",
+      "source": "牛客周赛 Round 166 D",
+      "url": "https://ac.nowcoder.com/acm/contest/141877/D",
+      "stage": "R0",
+      "next_review": "2026-10-23",
+      "review_type": "原题H0独立建模与完整实现",
       "route": "短期复习"
     },
     {
