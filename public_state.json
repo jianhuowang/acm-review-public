@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-20T08:57:35+00:00",
+  "generated_at": "2026-10-21T03:34:58+00:00",
   "items": [
     {
       "id": "nowcoder-big-integer-maze",
@@ -270,6 +270,16 @@
       "stage": "R0",
       "next_review": "2026-10-23",
       "review_type": "原题H0独立建模与完整实现",
+      "route": "短期复习"
+    },
+    {
+      "id": "nowcoder-39100-c",
+      "title": "阿宁吃粽子",
+      "source": "牛客小白月赛56 C",
+      "url": "https://ac.nowcoder.com/acm/contest/39100/C",
+      "stage": "R0",
+      "next_review": "2026-10-27",
+      "review_type": "原题H0独立建模与实现",
       "route": "短期复习"
     },
     {
