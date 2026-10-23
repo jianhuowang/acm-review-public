@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-23T08:34:00+00:00",
+  "generated_at": "2026-10-23T09:11:11+00:00",
   "items": [
     {
       "id": "nowcoder-big-integer-maze",
@@ -300,6 +300,16 @@
       "stage": "R0",
       "next_review": "2026-10-26",
       "review_type": "原题 H0 无提示完整复测",
+      "route": "短期复习"
+    },
+    {
+      "id": "nowcoder-nc271809",
+      "title": "小红不想做鸽巢原理",
+      "source": "牛客",
+      "url": "https://ac.nowcoder.com/acm/problem/271809",
+      "stage": "R0",
+      "next_review": "2026-10-26",
+      "review_type": "5分钟 H0 边界盲检",
       "route": "短期复习"
     },
     {
