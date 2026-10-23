@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-21T04:21:24+00:00",
+  "generated_at": "2026-10-23T08:34:00+00:00",
   "items": [
     {
       "id": "nowcoder-big-integer-maze",
@@ -290,6 +290,16 @@
       "stage": "R0",
       "next_review": "2026-10-24",
       "review_type": "原题 H0 完整复测",
+      "route": "短期复习"
+    },
+    {
+      "id": "nowcoder-214-a-virus",
+      "title": "病毒感染",
+      "source": "牛客小白月赛8 A",
+      "url": "https://ac.nowcoder.com/acm/contest/214/A",
+      "stage": "R0",
+      "next_review": "2026-10-26",
+      "review_type": "原题 H0 无提示完整复测",
       "route": "短期复习"
     },
     {
