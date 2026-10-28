@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-23T09:11:11+00:00",
+  "generated_at": "2026-10-28T06:22:07+00:00",
   "items": [
     {
       "id": "nowcoder-big-integer-maze",
@@ -310,6 +310,16 @@
       "stage": "R0",
       "next_review": "2026-10-26",
       "review_type": "5分钟 H0 边界盲检",
+      "route": "短期复习"
+    },
+    {
+      "id": "nowcoder-32a6c222213c42efa902da6b5c9f8e99",
+      "title": "【模板】分组背包",
+      "source": "牛客 HIGH89",
+      "url": "https://www.nowcoder.com/practice/32a6c222213c42efa902da6b5c9f8e99",
+      "stage": "R0",
+      "next_review": "2026-10-31",
+      "review_type": "原题 H0 完整实现复测",
       "route": "短期复习"
     },
     {
