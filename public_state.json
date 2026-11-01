@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-28T06:22:07+00:00",
+  "generated_at": "2026-11-01T14:45:44+00:00",
   "items": [
     {
       "id": "nowcoder-big-integer-maze",
@@ -320,6 +320,16 @@
       "stage": "R0",
       "next_review": "2026-10-31",
       "review_type": "原题 H0 完整实现复测",
+      "route": "短期复习"
+    },
+    {
+      "id": "cf-gym-104337-k-dice-game",
+      "title": "Gym 104337 K - Dice Game",
+      "source": "Codeforces Gym",
+      "url": "https://codeforces.com/gym/104337/problem/K",
+      "stage": "R0",
+      "next_review": "2026-11-04",
+      "review_type": "原题 H0 推导与实现复测",
       "route": "短期复习"
     },
     {
