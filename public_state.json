@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-03T06:58:57+00:00",
+  "generated_at": "2026-11-03T08:10:39+00:00",
   "items": [
     {
       "id": "nowcoder-big-integer-maze",
@@ -337,6 +337,16 @@
       "title": "闯关",
       "source": "牛客",
       "url": "https://ac.nowcoder.com/acm/problem/278904",
+      "stage": "R0",
+      "next_review": "2026-11-06",
+      "review_type": "原题 H0 无提示完整复测",
+      "route": "短期复习"
+    },
+    {
+      "id": "nowcoder-5ab549559b0d444183a698e8fbb41a9b",
+      "title": "红魔馆的馆主",
+      "source": "牛客",
+      "url": "https://www.nowcoder.com/practice/5ab549559b0d444183a698e8fbb41a9b",
       "stage": "R0",
       "next_review": "2026-11-06",
       "review_type": "原题 H0 无提示完整复测",
