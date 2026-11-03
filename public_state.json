@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-03T08:10:39+00:00",
+  "generated_at": "2026-11-03T09:19:13+00:00",
   "items": [
     {
       "id": "nowcoder-big-integer-maze",
@@ -347,6 +347,16 @@
       "title": "红魔馆的馆主",
       "source": "牛客",
       "url": "https://www.nowcoder.com/practice/5ab549559b0d444183a698e8fbb41a9b",
+      "stage": "R0",
+      "next_review": "2026-11-06",
+      "review_type": "原题 H0 无提示完整复测",
+      "route": "短期复习"
+    },
+    {
+      "id": "nowcoder-nc237733",
+      "title": "NC237733 相邻相同字符消除构造",
+      "source": "牛客实时对战",
+      "url": null,
       "stage": "R0",
       "next_review": "2026-11-06",
       "review_type": "原题 H0 无提示完整复测",
