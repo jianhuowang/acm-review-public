@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-01T14:45:44+00:00",
+  "generated_at": "2026-11-03T06:58:57+00:00",
   "items": [
     {
       "id": "nowcoder-big-integer-maze",
@@ -330,6 +330,16 @@
       "stage": "R0",
       "next_review": "2026-11-04",
       "review_type": "原题 H0 推导与实现复测",
+      "route": "短期复习"
+    },
+    {
+      "id": "nowcoder-nc278904",
+      "title": "闯关",
+      "source": "牛客",
+      "url": "https://ac.nowcoder.com/acm/problem/278904",
+      "stage": "R0",
+      "next_review": "2026-11-06",
+      "review_type": "原题 H0 无提示完整复测",
       "route": "短期复习"
     },
     {
