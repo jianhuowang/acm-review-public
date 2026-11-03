@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-03T09:19:13+00:00",
+  "generated_at": "2026-11-03T11:32:30+00:00",
   "items": [
     {
       "id": "nowcoder-big-integer-maze",
@@ -360,6 +360,16 @@
       "stage": "R0",
       "next_review": "2026-11-06",
       "review_type": "原题 H0 无提示完整复测",
+      "route": "短期复习"
+    },
+    {
+      "id": "nowcoder-nc277217",
+      "title": "异或故事",
+      "source": "牛客周赛 Round 56 C",
+      "url": "https://ac.nowcoder.com/acm/contest/88392/C",
+      "stage": "R0",
+      "next_review": "2026-11-06",
+      "review_type": "5分钟 H0 构造与边界复测",
       "route": "短期复习"
     },
     {
