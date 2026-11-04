@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-03T11:32:30+00:00",
+  "generated_at": "2026-11-04T07:02:46+00:00",
   "items": [
     {
       "id": "nowcoder-big-integer-maze",
@@ -370,6 +370,16 @@
       "stage": "R0",
       "next_review": "2026-11-06",
       "review_type": "5分钟 H0 构造与边界复测",
+      "route": "短期复习"
+    },
+    {
+      "id": "nowcoder-388c45a70e9e4dc39ee6c4b87b1296a0",
+      "title": "区间异或修改与区间求和（牛客练习）",
+      "source": "牛客",
+      "url": "https://www.nowcoder.com/practice/388c45a70e9e4dc39ee6c4b87b1296a0?channelPut=tracker2",
+      "stage": "R0",
+      "next_review": "2026-11-07",
+      "review_type": "原题 H0 无提示完整复测",
       "route": "短期复习"
     },
     {
