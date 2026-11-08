@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-04T07:02:46+00:00",
+  "generated_at": "2026-11-08T11:44:49+00:00",
   "items": [
     {
       "id": "nowcoder-big-integer-maze",
@@ -380,6 +380,16 @@
       "stage": "R0",
       "next_review": "2026-11-07",
       "review_type": "原题 H0 无提示完整复测",
+      "route": "短期复习"
+    },
+    {
+      "id": "cf-gym-105386a",
+      "title": "两星级竞赛",
+      "source": "2024 ICPC 全国邀请赛（昆明）A",
+      "url": "https://codeforces.com/gym/105386/problem/A",
+      "stage": "R0",
+      "next_review": "2026-11-10",
+      "review_type": "10 分钟原题核心循环无提示复测",
       "route": "短期复习"
     },
     {
