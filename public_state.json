@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-08T11:44:49+00:00",
+  "generated_at": "2026-11-11T00:55:20+00:00",
   "items": [
     {
       "id": "nowcoder-big-integer-maze",
@@ -390,6 +390,16 @@
       "stage": "R0",
       "next_review": "2026-11-10",
       "review_type": "10 分钟原题核心循环无提示复测",
+      "route": "短期复习"
+    },
+    {
+      "id": "nowcoder-7c857e187aff4570a40b1915df4d787f",
+      "title": "小红的数组操作",
+      "source": "牛客",
+      "url": "https://www.nowcoder.com/practice/7c857e187aff4570a40b1915df4d787f",
+      "stage": "R0",
+      "next_review": "2026-11-14",
+      "review_type": "5分钟局部 H0 数值安全检查",
       "route": "短期复习"
     },
     {
